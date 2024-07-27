@@ -1,0 +1,18 @@
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\bin\Debug\Financal Management System.exe
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\bin\Debug\Financal Management System.exe.config
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal Management System.csproj.AssemblyReference.cache
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Employee.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Expense.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Financial_Situation.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Form1.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.HomePage.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Order.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Product.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Properties.Resources.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal_Management_System.Revenue.resources
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal Management System.csproj.GenerateResource.cache
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal Management System.csproj.CoreCompileInputs.cache
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal Management System.exe
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\obj\Debug\Financal Management System.pdb
+C:\Users\pc\Masaüstü\DataBaseÖdev\Financal Management System\Financal Management System\bin\Debug\Financal Management System.pdb
